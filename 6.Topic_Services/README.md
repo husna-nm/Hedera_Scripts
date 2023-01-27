@@ -6,7 +6,7 @@ message of the transaction and submit.
 ## Instructions
 - using node v18.9.0 (npm v8.19.1)
 - Clone Repo
-- go to root (4.ScheduledTransaction_Services)
+- go to root (6.Topic_Services)
 - `npm install`
 
 ### To run script
