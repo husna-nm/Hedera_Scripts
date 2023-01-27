@@ -20,9 +20,8 @@ transactions using ABI decoding.
 run command  `npm start`
 
 ### output
-'''
 The contract ID is 0.0.16731
 Function 1 Output : 40000
 Function 2 Output : 40002
-'''
+
 
