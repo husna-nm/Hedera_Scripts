@@ -17,6 +17,7 @@ Create a second script that mints all 5 NFTs with the Metadata
 run command  `npm start`
 
 ### output
+```
 
 NFT is Created with TokenId: 0.0.13833 
 
@@ -37,3 +38,4 @@ TOKENID:  0.0.13833
 - NFT transfer from Treasury to Buyer: SUCCESS 
 
 - Buyer's balance: 1 NFTs of ID 0.0.13833
+```

@@ -19,6 +19,7 @@ of your tasks.
 run command  `npm start`
 
 ### output
+```
 ________________________________
 ACCOUNT_ID: 1
 newAccountPrivateKey ed45410d427a963ffe9c8888ee6d119dab9bba5119bf8d4a609dd0f89b913f60
@@ -79,4 +80,5 @@ All account Info:
 {"hbars":"200 ℏ","tokens":[]}
 ACCOUNT BALANCE:  200 ℏ
 ________________________________
+```
 

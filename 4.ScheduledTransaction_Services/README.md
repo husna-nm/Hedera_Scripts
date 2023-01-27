@@ -16,6 +16,7 @@ provides the required signature and submit it.
 run command  `npm start`
 
 ### output
+```
 Transaction is encoded
 TX 0.0.12739@1674832017.466606233 status: SUCCESS
 The schedule ID is 0.0.16195
@@ -25,4 +26,4 @@ It got created by:  0.0.12739
 It got payed by:  0.0.12739
 The expiration time of the scheduled tx is:  2023-01-27T15:37:06.000Z
 The time of execution of the scheduled tx is:  2023-01-27T15:07:06.000Z
-
+```
